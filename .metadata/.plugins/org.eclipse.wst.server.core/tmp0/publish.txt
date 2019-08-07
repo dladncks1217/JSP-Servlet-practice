@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Wed Aug 07 17:29:56 KST 2019
+org.eclipse.jst.jee.server\:example=C\:\\tomcat9\\wtpwebapps\\example
+org.eclipse.jst.jee.server\:ex=C\:\\tomcat9\\wtpwebapps\\ex

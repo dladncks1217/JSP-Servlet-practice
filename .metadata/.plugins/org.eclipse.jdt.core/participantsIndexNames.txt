@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+C:\Users\dlaxo\OneDrive\πŸ≈¡ »≠∏È\git\JSP Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2720922167.index
+\helloworld\src
+C:\Users\dlaxo\OneDrive\πŸ≈¡ »≠∏È\git\JSP Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2485878017.index
+\example\src
+C:\Users\dlaxo\OneDrive\πŸ≈¡ »≠∏È\git\JSP Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\59941317.index
+\example\src
+C:\Users\dlaxo\OneDrive\πŸ≈¡ »≠∏È\git\JSP Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3702745130.index
+\ex\src
+C:\Users\dlaxo\OneDrive\πŸ≈¡ »≠∏È\git\JSP Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3969768068.index
+\ex\src
+C:\Users\dlaxo\OneDrive\πŸ≈¡ »≠∏È\git\JSP Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3023552965.index
+\ex\src
